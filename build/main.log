@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.1)  4 MAR 2023 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.1)  4 MAR 2023 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,10 +873,85 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-))
-\c@theorem=\count463
-\c@definition=\count464
-\c@problem=\count465
+)) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.sty (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xy.tex Bootstrap'ing: catcodes, docmode, (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyrecat.tex) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyidioms.tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen314
+\Y@c=\dimen315
+\U@c=\dimen316
+\D@c=\dimen317
+\L@c=\dimen318
+\R@c=\dimen319
+\Edge@c=\toks48
+\X@p=\dimen320
+\Y@p=\dimen321
+\U@p=\dimen322
+\D@p=\dimen323
+\L@p=\dimen324
+\R@p=\dimen325
+\Edge@p=\toks49
+\X@origin=\dimen326
+\Y@origin=\dimen327
+\X@xbase=\dimen328
+\Y@xbase=\dimen329
+\X@ybase=\dimen330
+\Y@ybase=\dimen331
+\X@min=\dimen332
+\Y@min=\dimen333
+\X@max=\dimen334
+\Y@max=\dimen335
+\lastobjectbox@=\box74
+\zerodotbox@=\box75
+\almostz@=\dimen336
+ direction,
+\d@X=\dimen337
+\d@Y=\dimen338
+\K@=\count463
+\KK@=\count464
+\Direction=\count465
+\K@dXdY=\dimen339
+\K@dYdX=\dimen340
+\xyread@=\read5
+\xywrite@=\write6
+\csp@=\count466
+\quotPTK@=\dimen341
+ utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks50
+\connectobjectbox@@=\box76
+ objects,
+\styletoks@=\toks51
+ decorations; kernel objects: directionals, circles, text; options; algorithms: directions, edges, connections;  Xy-pic loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+ (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyall.tex  Xy-pic option: All features v.3.8 (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycurve.tex  Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count467
+\crvpts@=\toks52
+\splinebox@=\box77
+\splineval@=\dimen342
+\splinedepth@=\dimen343
+\splinetol@=\dimen344
+\splinelength@=\dimen345
+ circles,
+\L@=\dimen346
+ loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyframe.tex  Xy-pic option: Frame and Bracket extension v.3.14 loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycmtip.tex  Xy-pic option: Computer Modern tip extension v.3.7 (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xytips.tex  Xy-pic option: More Tips extension v.3.11 loaded) loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyline.tex  Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen347
+ loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyrotate.tex  Xy-pic option: Rotate and Scale extension v.3.8 loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xycolor.tex  Xy-pic option: Colour extension v.3.11 loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xymatrix.tex  Xy-pic option: Matrix feature v.3.14
+\Row=\count468
+\Col=\count469
+\queue@=\toks53
+\queue@@=\toks54
+\qcount@=\count470
+\qcount@@=\count471
+\matrixsize@=\count472
+ loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xyarrow.tex  Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xygraph.tex  Xy-pic option: Graph feature v.3.11 loaded) loaded) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf.tex  Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-co.tex loaded) Xy-pic pdf driver: `curve' extension support (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-cu.tex loaded) Xy-pic pdf driver: `frame' extension support (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-fr.tex loaded) Xy-pic pdf driver: `line' extension support (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-li.tex loaded) Xy-pic pdf driver: `rotate' extension support (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/xypic\xypdf-ro.tex loaded) loaded))
+\c@theorem=\count473
+\c@definition=\count474
+\c@problem=\count475
  (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.colorbrewer.code.tex (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarycolorbrewer.code.tex))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -888,20 +963,20 @@ LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -939,29 +1014,35 @@ LaTeX Font Info:    ... okay on input line 64.
 
 (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count466
-\scratchdimen=\dimen314
-\scratchbox=\box74
-\nofMPsegments=\count467
-\nofMParguments=\count468
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count469
-\MPscratchDim=\dimen315
-\MPnumerator=\count470
-\makeMPintoPDFobject=\count471
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count476
+\scratchdimen=\dimen348
+\scratchbox=\box78
+\nofMPsegments=\count477
+\nofMParguments=\count478
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count479
+\MPscratchDim=\dimen349
+\MPnumerator=\count480
+\makeMPintoPDFobject=\count481
+\everyMPtoPDFconversion=\toks56
 ) (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\Hy@linkcounter=\count472
+\Hy@linkcounter=\count482
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
 (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\spanish.lbx
@@ -975,8 +1056,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (c:\Users\Emiliard0\Desktop\Apuntes-tareas-ESFM\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 64.
-Package biblatex Info: Reference segment=0 on input line 64.
+Package biblatex Info: Reference section=0 on input line 65.
+Package biblatex Info: Reference segment=0 on input line 65.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
  (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -984,7 +1065,9 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
  (C:\Users\Emiliard0\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Package xypdf Info: Line width: 0.39998pt on input line 65.
+ [1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
@@ -998,15 +1081,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37631 strings out of 475385
- 913885 string characters out of 2775020
- 1976950 words of memory out of 3000000
- 58440 multiletter control sequences out of 15000+600000
- 476972 words of font info for 56 fonts, out of 8000000 for 9000
+ 40375 strings out of 475385
+ 949535 string characters out of 2775020
+ 2055891 words of memory out of 3000000
+ 61098 multiletter control sequences out of 15000+600000
+ 482877 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,103p,762b,1789s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,7n,103p,3262b,1795s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Emiliard0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Emiliard0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Emiliard0/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\Emiliard0\Desktop\Apuntes-tareas-ESFM\build\main.pdf (1 page, 41048 bytes).
+Output written on c:\Users\Emiliard0\Desktop\Apuntes-tareas-ESFM\build\main.pdf (1 page, 34311 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
